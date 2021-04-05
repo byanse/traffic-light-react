@@ -1,0 +1,44 @@
+.caja {
+  background-color: rgb(168, 165, 165);
+  width: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  margin-top: 100px;
+}
+
+.circulo {
+  width: 50px;
+  height: 50px;
+  border: 1px solid rgb(68, 63, 63);
+  margin: 1em;
+  border-radius: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.rojo.selected {
+  background-color: rgb(255, 0, 0);
+  box-shadow: #f8ffcc 0px 0px 50px 20px;
+}
+.rojo {
+  background-color: rgb(80, 24, 24);
+}
+.amarillo.selected {
+  background-color: yellow;
+  box-shadow: #f8ffcc 0px 0px 50px 20px;
+}
+.amarillo {
+  background-color: rgb(116, 116, 43);
+}
+
+.verde.selected {
+  background-color: rgb(116, 226, 52);
+  box-shadow: #f8ffcc 0px 0px 50px 20px;
+}
+
+.verde {
+  background-color: rgb(26, 78, 7);
+}
